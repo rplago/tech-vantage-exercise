@@ -1,0 +1,43 @@
+/* Container and Title */
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    text-align: center;
+    color: #3f51b5;
+    margin-bottom: 20px;
+  }
+  
+  /* Employee Table */
+  .employee-table {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  /* Skills Management Section */
+  .skills-section {
+    margin-top: 30px;
+  }
+  
+  .skill-card {
+    padding: 20px;
+  }
+  
+  .skill-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .field {
+    width: 45%;
+  }
+  
+  .assign-btn {
+    height: 48px;
+  }
+  
